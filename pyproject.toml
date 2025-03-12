@@ -1,0 +1,7 @@
+[project]
+name = "aml"
+version = "0.1.0"
+description = "Adaptive Meta-Learning (AML)"
+readme = "README.md"
+requires-python = "==3.12.*"
+dependencies = []
